@@ -1,0 +1,10 @@
+parameters:
+  /turtlebot3_navigation/parameters/pub_rate: 10
+  /turtlebot3_navigation/parameters/lineal_vel: 0.1
+  /turtlebot3_navigation/parameters/goal_angle_threshold: 0.17453292519943295
+  /turtlebot3_navigation/parameters/goal_distance_threshold: 0.1
+  /turtlebot3_navigation/parameters/slope_angle_threshold: 0.17453292519943295
+  /turtlebot3_navigation/parameters/wall_distance_threshold: 0.1
+  /turtlebot3_navigation/parameters/kp: 0.1
+  /turtlebot3_navigation/parameters/ki: 0.1
+  /turtlebot3_navigation/parameters/kd: 0.1

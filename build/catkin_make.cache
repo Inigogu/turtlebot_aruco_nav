@@ -1,0 +1,2 @@
+fiducials/aruco_detect:fiducials/fiducial_msgs:fiducials/fiducial_slam:fiducials/fiducials:fiducials/stag_detect:turtlebot3_gazebo:turtlebot3_msgs:turtlebot3_navigation:turtlebot3_run:turtlebot_kalman:turtlebot_vision
+-DCATKIN_DEVEL_PREFIX=/home/parallels/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/catkin_ws/install -G Unix Makefiles

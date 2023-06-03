@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="turtlebot3_navigation" type="turtlebot3_navigation.py" name="robot_navigation"/>
+    <rosparam command="load" file="$(find turtlebot3_navigation)/config/turtlebot3_navigation.yaml" />
+</launch>
